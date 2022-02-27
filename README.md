@@ -5,7 +5,7 @@
 * Every 24 hours there's a new word of the day, and it's up to you to figure out what it is.
 ##
 
->## TRY NOW :
+>## TRY NOW : https://wordle-play.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/40043256/155875219-dfb33fb8-bfdf-4a09-88a5-ac114177dddb.png)
 
